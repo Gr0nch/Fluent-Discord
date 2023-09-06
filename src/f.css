@@ -1518,7 +1518,7 @@ html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label] svg {
 .theme-dark .chat-1-OBC7 .newMessagesBar-1hF-9G,
 .theme-dark .chat-25x62K .newMessagesBar-1hF-9G {
   top: 8px;
-  background-color: hsl(var(--fluent-accent-hue-sat), calc(var(--fluent-accent-lightness) + 15%));
+  background-color: hsl(var(--fluent-accent-hue-sat), calc(var(--fluent-accent-lightness) + 115%));
 }
 .theme-dark .chat-2ZfjoI .newMessagesBar-1hF-9G .barButtonBase-Sk2mdB,
 .theme-dark .chat-1-OBC7 .newMessagesBar-1hF-9G .barButtonBase-Sk2mdB,
